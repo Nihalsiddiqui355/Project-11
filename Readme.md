@@ -1,4 +1,4 @@
-# 10 Project 
+# 11 Project 
 ![name](https://img.shields.io/badge/ByNihal-siddiqui-lightgrey)
 
 
@@ -7,7 +7,7 @@
 
 
 
-## Project 11 [Live Link]()
+## Project 11 [Live Link](https://hostingwebpage.netlify.app/)
 
 - >  Skills Gained in this project
     -   Learned to use `background-image` with `lienar-gradient` .
