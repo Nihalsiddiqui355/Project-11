@@ -12,6 +12,7 @@
 - >  Skills Gained in this project
     -   Learned to use `background-image` with `lienar-gradient` .
     -   Learned to use Over flow control .
+    -   Learned alot of thing.
 
 ---
 
