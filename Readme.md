@@ -7,7 +7,7 @@
 
 
 
-## Project 11 [Live Link](https://hostingwebpage.netlify.app/)
+## Project 11 [Live Link](https://fullstack-js-project-11.netlify.app/)
 
 - >  Skills Gained in this project
     -   Learned to use `background-image` with `lienar-gradient` .
