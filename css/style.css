@@ -18,9 +18,7 @@ p {
     margin: 20px 0px;
 } */
 
-.container{
-    overflow: hidden;
-}
+
 
 /*  _______________NavBar*/
 
@@ -93,7 +91,7 @@ p {
 
     .container {
         margin: 0 auto;
-        /* overflow-x: hidden; */
+        overflow: hidden;
     }
 
     .Navbar {
@@ -741,6 +739,7 @@ div.plane:nth-child(2) {
     div.sec-5-card>p {
         margin: 0 auto;
     }
+
     div.sec-5-card {
         padding: 0px;
     }
